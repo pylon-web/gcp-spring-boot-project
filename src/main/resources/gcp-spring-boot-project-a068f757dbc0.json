@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-spring-boot-project",
+  "private_key_id": "a068f757dbc0a889ea0824dc35f3c4fb7424dba0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0i1LHmv1SMI6L\nCOkRzywcEsmuJZjb3oo1z4SSC8ET129WHNlvdZOBWzJefxj6pxtwZJDK0Ja9y0Un\npWRGJ5QShVk+phApy1PeqZgHDxWw4N0K8R9sEkcOeWopxq72Umn6odnMBgZU+nQv\nb/JVf5WCIkDSV1TA41xCdgqwROhwRSQCWsfR+0UIvb2w6033tqLXe6grFPR/yIm+\nAu0bOLZRw53fs5ETtQGOESxu2xOpYVckmT+9v0s3MACdWX+ZBdaYTrvhVNhcwqm3\njot1irJWL+L/pfD5DStsSCWqQ4KcaRoejsna+Br8JZVj+scnMG3wyIo318D9UUbf\nOUQfCYxLAgMBAAECggEAB7dgrVlJdGbQ4M5br8AsAXMoHYJL2zHStGQPJXLNKLzv\nbD3FaUccK84rA/Dor2XO/Wm+6nwpxSjX5s7hz0HHyVbbrprIXBDtn7md3sddRPcH\nW31cu3C4irzTtb9hIPP6xZR/S4ICaUVfC9v7/n16dVpjbNoArFHLUqfa4xe+23V2\no723TJ2ijx/apTbYLyhZC0dWKTGdt2Reu6SUJ1Byfmo+7uqLIQTBIdZyqeI1lbg6\nHhVQ0oqcdoInl5P6qnh0HAxMVGK1cuUug/p+wwMUkcgw6HnUmhF2alERmV750ISx\nsXjIOfmpFBnRh3uc+r1CqrRyKx5qQl4w79BA4rjN0QKBgQDhaEpCU28z7pMTt3dI\nA/MnAm8vDNFe6OQsJotTq5T/+GvD6q6xO0HkRRs4wBQAO7CvSYYa3LuZ7BLsbzBQ\nn+n2sl2n5L9E5naeOd9rGNQWKQ+XU+gsJ5wIDyRy0u3pdgI5zTh5VMkA9YzvcVDF\nY3j9CDVxgmv2lNimoMK9+NpCUwKBgQDNDEbl+mUGVug9ezDPkklzpAaVZwkZYbEU\nv3hZYJh89wZiwxLDL+0dOxtg3t0POxLr03MG6gXiukk2wJ3IS1qztUgk1RkEvONz\nTVWsbP8IrQLNky3+9Ig3lR70JigQ7MajzGdu48ikVGI1xw4ic7kj9M+0HxzhpHom\n3qmkT+O/KQKBgFD1t25ZL2DUuOjlBafNG2GQg0S/8teHCKU+9t4Hi83geTx2J2aq\n5QDLPXrFqqlmxxA+dTdivtMLMsTPLuhWd59O80qhY32o1UQBf1ilI1AOUXZGAecS\nFv3iCnJfhmpLI4OFTVpu9H8usv8xkRREpSkk8KUjdgmr7qDyrt+y6RnXAoGAP7qu\nGnJtjb/bJKiyLgGIhMGZLjw87r+XOxybeiP0oPph6LY6kaHGr4wcYUpDKKWypsss\neByqQaKmeLb7EzKgeTRBvPjicr+GbeK+Wv3xci/brCsvY4t6/tOBMF7fmwsMXgJ8\nr1FqnfCAKbi5YunWxB8loxT8dAEb2hLgZOpTnakCgYBB4VFdRrWe5H12erpZeJj5\nzkrcV8jekT8jmAebVYZVUeCuH4oCjLHTtPOTgn0cYGS04UGT0pxM8LxYJj6HvKwm\neo4PVw27vrmZ6GmAxNxO6NmDhbhZ63BZJ0L57dqrj80FhGfd0cP5MVOI23kPLrGi\nQnTXe2Pu904SPRZsmUNnCw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-spring-boot-demo@gcp-spring-boot-project.iam.gserviceaccount.com",
+  "client_id": "109582325277395463987",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-spring-boot-demo%40gcp-spring-boot-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
